@@ -1,0 +1,20 @@
+﻿  SRS.cpp
+C:\Users\alish\source\repos\SRS\SRS\SRS.cpp(8,10): warning C4305: =: усечение из "double" в "float"
+C:\Users\alish\source\repos\SRS\SRS\SRS.cpp(7,14): warning C4101: F: неиспользованная локальная переменная
+C:\Users\alish\source\repos\SRS\SRS\SRS.cpp(16,11): warning C4101: R: неиспользованная локальная переменная
+C:\Users\alish\source\repos\SRS\SRS\SRS.cpp(16,14): warning C4101: F: неиспользованная локальная переменная
+C:\Users\alish\source\repos\SRS\SRS\SRS.cpp(25,8): warning C4101: M: неиспользованная локальная переменная
+C:\Users\alish\source\repos\SRS\SRS\SRS.cpp(25,14): warning C4101: Q: неиспользованная локальная переменная
+C:\Users\alish\source\repos\SRS\SRS\SRS.cpp(25,11): warning C4101: q: неиспользованная локальная переменная
+C:\Users\alish\source\repos\SRS\SRS\SRS.cpp(33,8): warning C4101: I: неиспользованная локальная переменная
+C:\Users\alish\source\repos\SRS\SRS\SRS.cpp(43,23): warning C4101: U: неиспользованная локальная переменная
+C:\Users\alish\source\repos\SRS\SRS\SRS.cpp(60,14): warning C4101: I: неиспользованная локальная переменная
+C:\Users\alish\source\repos\SRS\SRS\SRS.cpp(105,17): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\alish\source\repos\SRS\SRS\SRS.cpp(106,11): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\alish\source\repos\SRS\SRS\SRS.cpp(119,22): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\alish\source\repos\SRS\SRS\SRS.cpp(120,27): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\alish\source\repos\SRS\SRS\SRS.cpp(121,16): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\alish\source\repos\SRS\SRS\SRS.cpp(127,27): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+C:\Users\alish\source\repos\SRS\SRS\SRS.cpp(301,9): warning C4244: return: преобразование "double" в "int", возможна потеря данных
+C:\Users\alish\source\repos\SRS\SRS\SRS.cpp(259): warning C4715: choose5: значение возвращается не при всех путях выполнения
+  SRS.vcxproj -> C:\Users\alish\source\repos\SRS\x64\Debug\SRS.exe
